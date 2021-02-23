@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2021-02-23T09:54:42.531Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="lWOGMuMnIhJ8iaZliKpx" version="14.4.2" type="device"><diagram id="ce1-7htGX9AMp9Qhyo3i" name="Page-1">7Vlbc6M2FP41nj7VA+JmP8ZOvOn0sp5cNu2jAgLUFYgRItj76yuBAAvhrLdN4kwnzkyCjqQj6fu+o2NOZs46231isEh/pxEiM2BFu5lzOQNgYXvitzTsW4O7AK0hYThqTfZguMXfkDJaylrhCJXaQE4p4bjQjSHNcxRyzQYZo7U+LKZEX7WACTIMtyEkpvUBRzxVxwLBYL9GOEm7lW1/2fZksBusTlKmMKL1gcm5mjlrRilvn7LdGhGJXYdLO29zpLffGEM5P2XCTRZfb+4z+/7v7ecMx+Xdr1/Qz8rLEySVOrDaLN93CJSc0a/94e2Zs+pPYolGBMsURaoBCU5y8RyKPSEmDCnPyDCrkC6zXSKVMs9o+LUq5oI4DnGOWDl/lHQh9oDzxv2KKTlIz+0u1pRQ1mzL8ZuP3gPaLstahHGsdzltV+jKH9GViTXv0K5Fbi0XQ2HFSvyEblA5LKvgQYyj3VHc7Z5NEQWIZoizvRiiJizddoYKAHuh9FAPcvJdZUsPpOR0A6GScNK7HlgWD4roHyAdGKRvZRQAyz4j+TAPU8ntKhY2RbwdqPYU791yBMX8VKaOx8BR+nxLpw8Y7Nn2BHvAfyXyHIO8lHN5GV5Iv2BT1/U8YrCeY/oe2DyM4XfGrO3o1PpmYALvLam1A4NbnIsLETMZnOQnnGUwEfgavNYp5ui2gKFs14ISnS5YFm1qjPFO8tsAv4EZJvLk14g8IY5DOGLIe0Xoge/rURWY2C89E/rO9vJXohlW99u3jp/HinOal+rvs0lvFDpx8xmlNWfVOrpVB2C0yqMjYdiNkbuLMSEHvvtsOqWy1xKIGwBNIFPBuXAnkuar5UzXEMjl54c/PiTybiTigHNLxDMk8tvV5u5DImeTiLMc3SLLc0vENyRy88un6w+NnE8jnuu/L404pkYMeaAoQR2QJUoyAcDVYFqhPLqQtQ8pCgLLEoe6Kn7w+59c7UUgP4B06ot1Z2OIQC7exLU1p3BWK2wpFrvpGV3ohDruiKmSVixEatJhwWTkxx4pw/VHjjhkCeKGo4b1/tT/QQgnFGfeSgjCL9v/KS+cuWcFneEv5aZpXO7UfdS29oetrXiJEXDI2+mgrPKsrrpiX4PxcyiBc2otAHp1xx0XbU4VWxCMHIE3FptZFCoqUsKcY2GNxCvoN0xzkWokTYJHYGUVFbfxd95MeZMhtJfRcbaSV7oQHblQHRmOoka8TBbi4CPpygeFPHuDhreaeTLrwIpTVayzJ0R7VN0n5ZLvlIWAXjxwJsp6IqGZwhvz+nJ549nqQZVTyYyAJDLrQv9blvq6Qlfi8UyW7Kni679gSTSHYn4blsN/RJyrfwA=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-23T10:28:09.046Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="MTyKCaaqDPFltBc94Ojx" version="14.4.2" type="github">
+  <diagram id="ce1-7htGX9AMp9Qhyo3i" name="Page-1">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RmfHFUm1UjPOmifsTKVe-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" parent="1" vertex="1">
+          <mxGeometry x="94" y="180" width="640" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="RmfHFUm1UjPOmifsTKVe-2" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" parent="RmfHFUm1UjPOmifsTKVe-1" vertex="1">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="RmfHFUm1UjPOmifsTKVe-3" value="https://www.draw.io" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" parent="RmfHFUm1UjPOmifsTKVe-1" vertex="1">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="RmfHFUm1UjPOmifsTKVe-17" value="inserire l&#39;immagine" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=15;" parent="RmfHFUm1UjPOmifsTKVe-1" vertex="1">
+          <mxGeometry x="266" y="170" width="95" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="RmfHFUm1UjPOmifsTKVe-23" value="UP" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" parent="RmfHFUm1UjPOmifsTKVe-1" vertex="1">
+          <mxGeometry x="472" y="260" width="84" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RmfHFUm1UjPOmifsTKVe-24" value="DOWN" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" parent="RmfHFUm1UjPOmifsTKVe-1" vertex="1">
+          <mxGeometry x="472" y="320" width="84" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RmfHFUm1UjPOmifsTKVe-25" value="LEFT" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" parent="RmfHFUm1UjPOmifsTKVe-1" vertex="1">
+          <mxGeometry x="392" y="290" width="84" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RmfHFUm1UjPOmifsTKVe-26" value="RIGHT" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" parent="RmfHFUm1UjPOmifsTKVe-1" vertex="1">
+          <mxGeometry x="546" y="290" width="84" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RmfHFUm1UjPOmifsTKVe-36" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;fontFamily=Helvetica;fontSize=15;" parent="RmfHFUm1UjPOmifsTKVe-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="86" y="340" as="sourcePoint" />
+            <mxPoint x="146" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RmfHFUm1UjPOmifsTKVe-31" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;fontFamily=Helvetica;fontSize=15;entryX=0.507;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="RmfHFUm1UjPOmifsTKVe-32" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="724" y="480" as="sourcePoint" />
+            <mxPoint x="774" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RmfHFUm1UjPOmifsTKVe-32" value="pulsanti direzionali per muovere l&#39;immagine" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;fontFamily=Helvetica;" parent="1" vertex="1">
+          <mxGeometry x="620" y="380" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RmfHFUm1UjPOmifsTKVe-37" value="inserire uno sfondo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;fontFamily=Helvetica;" parent="1" vertex="1">
+          <mxGeometry x="170" y="650" width="140" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
